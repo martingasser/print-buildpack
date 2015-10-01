@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#bind/detect <build-dir>
+
+echo "**** DETECT ****"
+echo $BUILD_DIR
