@@ -14,4 +14,4 @@ echo $CACHE_DIR
 echo $ENV_DIR
 
 echo "**** ENV_DIR ****"
-ls $ENV_DIR
+cat $ENV_DIR/PKG_CONFIG_PATH
