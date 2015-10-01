@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 #bind/detect <build-dir>
 
+BUILD_DIR=${1%/}
+
 echo "**** DETECT ****"
 echo $BUILD_DIR
